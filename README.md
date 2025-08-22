@@ -20,4 +20,6 @@
   - Developed real-time data processing pipeline utilizing TOF camera SDK and visualization tools
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdgh9806)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun9ho&layout=compact&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun9ho&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
