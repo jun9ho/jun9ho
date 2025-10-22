@@ -1,7 +1,7 @@
 ##  About Me
 - 🎓 Computer Science @ Korea Univ.
 - 💻 Aspiring **Backend Developer**
-- 🌱 Currently learning **Java, Spring Boot, MySQL**
+- 🌱 Currently learning **Java, Spring Boot, MariaDB**
 - 📚 Solving algorithm problems on Baekjoon (solved.ac)
 
 ## 💻 Tech Stack
