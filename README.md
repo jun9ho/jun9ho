@@ -3,6 +3,10 @@
 - 💻 Aspiring **Backend Developer**
 - 📚 Solving algorithm problems on Baekjoon (solved.ac)
 
+## 🏆 Awards
+- LG CNS AM INSPIRE CAMP 우수상 (Excellence Award), [SentiStock (GitHub)](https://github.com/lgcns3team)
+- “EllipssianNet: Image-guided Sampling of 2D Gaussians for Gaussian Splatting”, IEEE/CVF *WACV 2026 (poster)* (Project Contribution)
+
 ## 💻 Tech Stack
 
 ### Languages
